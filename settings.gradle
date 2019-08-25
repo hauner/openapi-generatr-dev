@@ -1,0 +1,5 @@
+rootProject.name = 'openapi-generatr-dev'
+
+includeBuild '../openapi-generatr-gradle'
+includeBuild '../openapi-generatr-spring'
+includeBuild '../openapi-generatr-spring-mvc-sample'
